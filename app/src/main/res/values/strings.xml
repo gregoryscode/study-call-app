@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CallApp</string>
+    <string name="title_activity_call">Chamada Telefônica</string>
+    <string name="app_ok">OK</string>
+    <string name="app_phone">Telefone:</string>
+    <string name="app_phone_empty">Por favor, preencha o telefone.</string>
+    <string name="app_country_code">tel: +55</string>
+    <string name="app_call_not_granted">Permissão para telefonar não concedida pelo usuário.</string>
+    <string name="app_call_error">Não foi possível telefonar. Por favor, tente novamente.</string>
+</resources>
